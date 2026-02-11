@@ -1,0 +1,19 @@
+Stanley Nathanael Wijaya, NW25-1
+
+NLP - Lab
+
+COURSE OUTLINE - SESI 2
+Stemming and Lemmatizing
+======================================================
+
+[] Stemming
+    [] Porter Stemmer
+    [] Lancaster Stemmer
+    [] Snowball Stemmer
+[] Lemmatizing
+[] Wordnet
+    [] Synonym
+    [] Antonym
+
+
+Canva Link: https://www.canva.com/design/DAHBBb94N90/E-eNMx68AuLiUBD5c90dCw/view?utm_content=DAHBBb94N90&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h170f7455a3
