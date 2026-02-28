@@ -1,0 +1,13 @@
+Stanley Nathanael Wijaya, NW25-1
+
+NLP - Lab
+
+COURSE OUTLINE - SESI 4
+Sentiment Classification with Naive Bayes
+======================================================
+
+[] Extract Text Features
+[] Naive Bayes Classifier
+[] Save Model to Pickle
+
+Canva Link: https://www.canva.com/design/DAHCkpIrI4c/H2nrKFP_PlEz5X8fe7CJxQ/view?utm_content=DAHCkpIrI4c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7cd3c0f746
