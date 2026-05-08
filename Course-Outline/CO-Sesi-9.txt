@@ -1,0 +1,12 @@
+Stanley Nathanael Wijaya, NW25-1
+
+NLP - Lab
+
+COURSE OUTLINE - SESI 9
+Word Embedding
+======================================================
+
+[] Word Vectorization using Word2Vec
+[] Word Vectorization using GloVe
+
+Canva Link: ...
