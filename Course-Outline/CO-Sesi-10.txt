@@ -1,0 +1,18 @@
+Stanley Nathanael Wijaya, NW25-1
+
+NLP - Lab
+
+COURSE OUTLINE - SESI 10
+Syntactic and Semantic Text Analysis
+======================================================
+
+[] Grammar Parsing with NLTK
+[] Dependency Parsing with SpaCy
+[] Named Entity Recognition (NER) with Spacy
+
+Appendix:
+1. Teach grammar parsing using NLTK to analyze sentence structure.
+2. Teach dependency parsing using SpaCy to understand the relationships between words in a sentence.
+3. Teach Named Entity Recognition (NER) using SpaCy to extract important entities from text.
+
+Canva Link: ...
