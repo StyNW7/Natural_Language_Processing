@@ -1,3 +1,4 @@
 *.pickle
 *glove.6B.50d.txt
 *.model
+nlp_env/
