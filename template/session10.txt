@@ -1,0 +1,20 @@
+grammar = CFG.fromstring("""
+S -> NP VP
+
+NP -> Det N
+NP -> Det Adj N
+NP -> N
+
+VP -> V
+VP -> V NP
+VP -> V PP
+VP -> V NP PP
+
+PP -> P NP
+
+Det -> 'the' | 'a'
+Adj -> 'small' | 'big' | 'red'
+N -> 'cat' | 'dog' | 'fish' | 'park' | 'boy' | 'telescope'
+V -> 'eats' | 'sees' | 'walks'
+P -> 'in' | 'with'
+""")
